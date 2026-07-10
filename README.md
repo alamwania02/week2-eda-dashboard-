@@ -53,7 +53,6 @@ Installation Guide
 pip install -r requirements.txt
 Run the Dashboard
 streamlit run app.py
-Dashboard Screenshots
 
-GitHub Repository:
+GitHub Repository:https://github.com/alamwania02/week2-eda-dashboard
 
